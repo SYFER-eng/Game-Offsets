@@ -1,0 +1,66 @@
+EntityList = 0x04A13A64
+LocalPlayer = 0x00A71C2C
+RadarBase = 0x04A486FC
+ScoreBoardBase = 0x04A33CBC
+attack = 0x02E85994
+attack2 = 0x02E85988
+forward = 0x02E859B8
+backward = 0x02E859AC
+moveleft = 0x02E859A0
+moveright = 0x02E859F4
+jump = 0x04AA47AC
+
+
+Entitys
+
+> EntityList = 0x04A13A64
+> LocalPlayer = 0x00A71C2C
+
+
+RadarBase
+
+> RadarBase 0x4EB28
+> RadarPointer 0x20
+> RadarHealth 0x20
+> RadarName 0x24
+> RadarSize 0x1EC
+
+
+NetVars
+
+> m_flNextPrimaryAttack 0x159C
+> m_hOwner 0x0
+> m_iState 0x5B0866
+> m_iClip1 0x8674805
+> m_iClip2 0x8678005
+> m_hActiveWeapon 0x12C0
+> m_bSpotted 0x935
+> m_hOwnerEntity 0x148
+> m_vecOrigin 0x134
+> m_iTeamNum 0xF0
+> m_Local 0x1378
+> m_vecViewOffset 0x104
+> m_nTickBase 0x17CC
+> m_vecVelocity 0x110
+> m_vecBaseVelocity 0x11C
+> m_lifestate 0x160C5B08
+> m_fFlags 0xE059005B
+> m_iHealth 0x8B69005
+> m_iFOV 0x5C7DB85
+> m_flFlashMaxAlpha 0x1D5C
+> m_flFlashDuration 0x1D60
+> m_angEyeAngles 0x6473E856
+> m_iAccount 0x1C48
+> m_iCrossHairID 0x5B09BDB8
+> m_fAccuracyPenalty 0x16C4
+> m_iWeaponID 0x16E0
+> m_vecPunch 0x13E8
+
+
+Other
+
+> BoneMatrix 0xA78
+> GlobalVars 0x5CDE50
+> EnginePointer 0x5CE1C4
+> EnginePosition 0x556A60
+> ViewMatrix 0x4C5D000
