@@ -1,0 +1,67 @@
+{
+  "aim_active": false,
+  "aim_key": "CTRL",
+  "aim_radius": 80,
+  "aim_smooth": 3.0,
+  "aim_target": "Head",
+  "aim_prediction": false,
+  "aim_fov_type": "Circle",
+  "aim_auto_shoot": false,
+  "fov_show": true,
+  "fov_color": [
+    255,
+    255,
+    255,
+    100
+  ],
+  "esp_active": true,
+  "esp_color": [
+    255,
+    255,
+    255,
+    255
+  ],
+  "esp_box_color": [
+    0,
+    255,
+    0,
+    255
+  ],
+  "esp_health_color": [
+    255,
+    0,
+    0,
+    255
+  ],
+  "esp_show_box": true,
+  "esp_show_health": false,
+  "esp_show_name": false,
+  "esp_show_weapon_name": false,
+  "esp_show_distance": false,
+  "esp_show_skeleton_bones": false,
+  "esp_health_gradient": false,
+  "esp_name_bold": false,
+  "mesh_enabled": false,
+  "mesh_wireframe": false,
+  "mesh_thickness": 2,
+  "mesh_color": [
+    0,
+    255,
+    255,
+    128
+  ],
+  "mesh_distance": 1500,
+  "esp_name_color": [
+    255,
+    255,
+    255,
+    255
+  ],
+  "esp_weapon_color": [
+    255,
+    255,
+    0,
+    255
+  ],
+  "rainbow_pinwheel": false
+}
